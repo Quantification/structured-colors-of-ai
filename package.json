@@ -1,0 +1,28 @@
+{
+    "name": "structured-colors-of-ai",
+    "displayName": "Structured Colors of AI",
+    "description": "A dark color theme with warm orange-red accents, generated from VS Code ThemeTuner customizations.",
+    "version": "0.1.0",
+    "publisher": "alexis-pokrovski",
+    "icon": "images/Logo_450x450.png",
+    "license": "SEE LICENSE IN LICENSE",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Quantification/structured-colors-of-ai"
+    },
+    "engines": {
+        "vscode": "^1.90.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SR Night Downtown Tuned",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SR Night Downtown Tuned.json"
+            }
+        ]
+    }
+}
