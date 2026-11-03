@@ -6,7 +6,7 @@ This single theme is a tuning of Showa Retro Night Downtown and mostly a tribute
 
 To those tired of flat borderless monochrome UI environments. The venerable author named his themes "Retro". Disagree: this is the future of agentic UI visual design.
 
-![Screenshot](images/SR-Night-Downtown-Tuned.png)
+![Screenshot](https://raw.githubusercontent.com/Quantification/structured-colors-of-ai/main/images/SR-Night-Downtown-Tuned.png)
 
 ## What I've tuned
 
